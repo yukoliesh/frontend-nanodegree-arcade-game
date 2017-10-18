@@ -1,3 +1,21 @@
 body {
     text-align: center;
 }
+
+div.welcome{
+    margin: 0 auto;
+    font-family: futura;
+}
+
+h1{
+    font-size: 20px;
+}
+
+h2{
+    font-size: 16px;
+    display:inline-block;
+}
+.scoreTxt{
+    display: inline-block;
+    font-size:16px;
+}
