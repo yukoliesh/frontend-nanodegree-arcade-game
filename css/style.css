@@ -8,14 +8,17 @@ div.welcome{
 }
 
 h1{
-    font-size: 20px;
+    font-size: 30px;
 }
 
 h2{
-    font-size: 16px;
+    font-size: 24px;
     display:inline-block;
+    margin-top:3px;
+    margin-bottom:3px;
 }
 .scoreTxt{
     display: inline-block;
-    font-size:16px;
+    font-size:32px;
+    color:#c4357c;
 }
